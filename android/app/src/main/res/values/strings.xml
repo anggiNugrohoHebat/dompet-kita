@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dompet Kita</string>
+    <string name="title_activity_main">Dompet Kita</string>
+    <string name="package_name">com.dompetkita.app</string>
+    <string name="custom_url_scheme">com.dompetkita.app</string>
+</resources>
